@@ -1,0 +1,7 @@
+<!-- wp:heading -->
+<h2>Abstract</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Electronic Health Record (EHR) is being used in most healthcare institutions to preserve and share health records instead of a paper-based method. Data records must be exchanged amongst various parties and users' privileges to manage access to their records should also be provided. In addition to the basic standards of secrecy, confidentiality and integrity of information, these facts further demonstrate the need for interoperability and consumer control to access their personal data. Electronic Health Record (EHR) system faces issues of protection of data, trust and management issues. In recent Covid-19 pandemic, various applications, tools and websites were launched that stores records. Also, many personal records related to health need to be shared among different parties for early detection, contact tracing, monitoring and the future prediction that requires accurate and reliable data. Simultaneously, the citizens will be hesitant in providing their personal details due to privacy concerns and social stigma. Blockchain technology has arisen as a powerful technology that can offer the immutability, confidentiality and user access properties of stored information and provided distributed storage. This paper analyses the blockchain suitability in EHR and its further applications in efficient Covid-19 pandemic management.</p>
+<!-- /wp:paragraph -->
